@@ -9,7 +9,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "PGPromise": "~1.0"
+    "PGPromise": "https://github.com/pinguo-yangyang/PGPromise#~1.0"
   },
   "ignore": [
     "**/.*",
