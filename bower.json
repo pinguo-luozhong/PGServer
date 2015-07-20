@@ -1,6 +1,6 @@
 {
   "name": "PGServer",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "homepage": "https://github.com/pinguo-luozhong/PGServer",
   "description": "PGServer1.0",
   "main": "dist/PGServer.min.js",
@@ -9,7 +9,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "PGPromise": "https://github.com/pinguo-yangyang/PGPromise.git#~1.0.0"
+    "PGPromise": "https://github.com/pinguo-yangyang/PGPromise.git#~0.0.0"
   },
   "ignore": [
     "**/.*",
